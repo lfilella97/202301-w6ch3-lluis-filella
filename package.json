@@ -12,6 +12,8 @@
   "author": "",
   "license": "ISC",
   "devDependencies": {
+    "@types/inquirer": "^9.0.3",
+    "@types/node": "^18.13.0",
     "@typescript-eslint/eslint-plugin": "^5.52.0",
     "@typescript-eslint/parser": "^5.52.0",
     "eslint": "^8.34.0",
@@ -24,6 +26,7 @@
   "dependencies": {
     "commander": "^10.0.0",
     "eslint-config-prettier": "^8.6.0",
+    "inquirer": "^8.2.5",
     "lint-staged": "^13.1.2"
   }
 }

@@ -1,1 +1,3 @@
-const a = 4;
+import runQuestions from "./start.js";
+
+runQuestions();
